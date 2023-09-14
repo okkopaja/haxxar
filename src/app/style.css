@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .consulting {
     background-color: #ffffff;
     display: flex;
