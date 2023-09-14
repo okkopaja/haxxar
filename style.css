@@ -1,0 +1,1941 @@
+.consulting {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .consulting .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 8142px;
+    position: relative;
+  }
+  
+  .consulting .button {
+    top: -4236px;
+    left: 455px;
+    color: #1d4645;
+    font-size: 12px;
+    position: absolute;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .consulting .overlap {
+    position: absolute;
+    width: 1455px;
+    height: 7944px;
+    top: 879px;
+    left: -1px;
+  }
+  
+  .consulting .bg {
+    position: absolute;
+    width: 1440px;
+    height: 7943px;
+    top: 1px;
+    left: 1px;
+    background-color: #ffffff;
+  }
+  
+  .consulting .rectangle {
+    position: absolute;
+    width: 1440px;
+    height: 1690px;
+    top: 3925px;
+    left: 1px;
+    background-color: #1d4645;
+  }
+  
+  .consulting .rectangle-2 {
+    position: absolute;
+    width: 270px;
+    height: 224px;
+    top: 4130px;
+    left: 742px;
+    background-color: #0c2323;
+    border-radius: 4px;
+    box-shadow: 0px 24px 48px #0000000a;
+  }
+  
+  .consulting .unsplash {
+    position: absolute;
+    width: 449px;
+    height: 424px;
+    top: 4128px;
+    left: 992px;
+  }
+  
+  .consulting .unsplash-grymxaqdtp {
+    position: absolute;
+    width: 262px;
+    height: 198px;
+    top: 4190px;
+    left: 1084px;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #ffffff;
+    box-shadow: 50px 50px 100px #00000059;
+  }
+  
+  .consulting .rectangle-3 {
+    position: absolute;
+    width: 270px;
+    height: 224px;
+    top: 4434px;
+    left: 1042px;
+    background-color: #0c2323;
+    border-radius: 4px;
+    box-shadow: 0px 24px 48px #0000000a;
+  }
+  
+  .consulting .element {
+    top: 4184px;
+    left: 763px;
+    font-size: 66px;
+    position: absolute;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 64px;
+    white-space: nowrap;
+  }
+  
+  .consulting .awards {
+    top: 4265px;
+    left: 826px;
+    position: absolute;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .text-wrapper {
+    top: 4489px;
+    left: 1050px;
+    font-size: 64px;
+    position: absolute;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 64px;
+    white-space: nowrap;
+  }
+  
+  .consulting .awards-2 {
+    top: 4569px;
+    left: 1126px;
+    position: absolute;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .oval {
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    top: 4388px;
+    left: 1373px;
+    border-radius: 9.5px;
+    border: 3px solid;
+    border-color: #e8c5b0;
+  }
+  
+  .consulting .oval-2 {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top: 4055px;
+    left: 840px;
+    border-radius: 13px;
+    border: 3px solid;
+    border-color: #e8c5b0;
+  }
+  
+  .consulting .oval-3 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    top: 4725px;
+    left: 864px;
+    border-radius: 32.5px;
+    border: 3px solid;
+    border-color: #e8c5b0;
+  }
+  
+  .consulting .combined-shape {
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    top: 3997px;
+    left: 1116px;
+  }
+  
+  .consulting .img {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 4701px;
+    left: 1120px;
+  }
+  
+  .consulting .group {
+    position: absolute;
+    width: 137px;
+    height: 88px;
+    top: 4611px;
+    left: 492px;
+  }
+  
+  .consulting .group-2 {
+    position: absolute;
+    width: 137px;
+    height: 88px;
+    top: 4586px;
+    left: 910px;
+  }
+  
+  .consulting .group-3 {
+    position: absolute;
+    width: 133px;
+    height: 79px;
+    top: 4100px;
+    left: 989px;
+  }
+  
+  .consulting .contact-us {
+    position: absolute;
+    top: 5799px;
+    left: 652px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #1d4645;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 3px;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .text-wrapper-2 {
+    position: absolute;
+    top: 5843px;
+    left: 531px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 66px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 64px;
+    white-space: nowrap;
+  }
+  
+  .consulting .deep-dark-blue-spect {
+    position: absolute;
+    width: 470px;
+    top: 5944px;
+    left: 486px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #5e5e5e;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .rectangle-4 {
+    position: absolute;
+    width: 1440px;
+    height: 432px;
+    top: 6367px;
+    left: 1px;
+    background-color: #1d4645;
+  }
+  
+  .consulting .rectangle-5 {
+    position: absolute;
+    width: 630px;
+    height: 592px;
+    top: 6063px;
+    left: 406px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    box-shadow: 68px 38px 80px #0000001a;
+  }
+  
+  .consulting .light-field-default {
+    position: absolute;
+    width: 370px;
+    height: 76px;
+    top: 6147px;
+    left: 536px;
+  }
+  
+  .consulting .label {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #131b42;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .consulting .overlap-group {
+    position: absolute;
+    width: 370px;
+    height: 48px;
+    top: 28px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #dadada;
+  }
+  
+  .consulting .placeholder {
+    position: absolute;
+    top: 7px;
+    left: 15px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #33333380;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .light-field-default-2 {
+    height: 76px;
+    top: 6243px;
+    position: absolute;
+    width: 370px;
+    left: 536px;
+  }
+  
+  .consulting .light-field-default-3 {
+    height: 157px;
+    top: 6339px;
+    position: absolute;
+    width: 370px;
+    left: 536px;
+  }
+  
+  .consulting .placeholder-wrapper {
+    position: absolute;
+    width: 370px;
+    height: 129px;
+    top: 28px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #dadada;
+  }
+  
+  .consulting .light-button-primary {
+    position: absolute;
+    width: 170px;
+    height: 48px;
+    top: 6527px;
+    left: 636px;
+    background-color: #1d4645;
+    border-radius: 4px;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .consulting .button-2 {
+    top: 14px;
+    left: 58px;
+    color: #ffffff;
+    font-size: 14px;
+    position: absolute;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .consulting .group-4 {
+    position: absolute;
+    width: 1236px;
+    height: 597px;
+    top: 5687px;
+    left: 119px;
+  }
+  
+  .consulting .oval-4 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    top: 297px;
+    left: 1099px;
+    border-radius: 32.5px;
+    border: 3px solid;
+    border-color: #1d4645;
+  }
+  
+  .consulting .oval-5 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    top: 92px;
+    left: 0;
+    border-radius: 32.5px;
+    border: 3px solid;
+    border-color: #1d4645;
+  }
+  
+  .consulting .combined-shape-2 {
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    top: 327px;
+    left: 119px;
+  }
+  
+  .consulting .combined-shape-3 {
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    top: 5px;
+    left: 1198px;
+  }
+  
+  .consulting .group-5 {
+    position: absolute;
+    width: 83px;
+    height: 98px;
+    top: 499px;
+    left: 148px;
+  }
+  
+  .consulting .group-6 {
+    position: absolute;
+    width: 101px;
+    height: 74px;
+    top: 43px;
+    left: 966px;
+  }
+  
+  .consulting .group-7 {
+    position: absolute;
+    width: 406px;
+    height: 369px;
+    top: 4037px;
+    left: 142px;
+  }
+  
+  .consulting .p {
+    width: 400px;
+    top: 201px;
+    left: 0;
+    font-family: "Rubik-Regular", Helvetica;
+    color: #d2d2d2;
+    font-size: 20px;
+    line-height: 40px;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .consulting .overlap-2 {
+    position: absolute;
+    width: 239px;
+    height: 159px;
+    top: 0;
+    left: 0;
+  }
+  
+  .consulting .interesting-facts {
+    position: absolute;
+    width: 239px;
+    top: 31px;
+    left: 0;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 66px;
+    letter-spacing: 0;
+    line-height: 64px;
+  }
+  
+  .consulting .rectangle-6 {
+    position: absolute;
+    width: 170px;
+    height: 44px;
+    top: 0;
+    left: 0;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #ffffff;
+  }
+  
+  .consulting .button-3 {
+    top: 85px;
+    left: 52px;
+    color: #ffffff;
+    font-size: 14px;
+    position: absolute;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .consulting .check-latest-article {
+    position: absolute;
+    top: 4911px;
+    left: 142px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 66px;
+    letter-spacing: 0;
+    line-height: 64px;
+  }
+  
+  .consulting .bitmap {
+    position: absolute;
+    width: 370px;
+    height: 272px;
+    top: 5108px;
+    left: 142px;
+  }
+  
+  .consulting .even-the-all-powerfu {
+    position: absolute;
+    width: 370px;
+    top: 5417px;
+    left: 142px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .bitmap-2 {
+    position: absolute;
+    width: 370px;
+    height: 272px;
+    top: 5108px;
+    left: 542px;
+  }
+  
+  .consulting .almost-unorthographi {
+    position: absolute;
+    width: 370px;
+    top: 5417px;
+    left: 542px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .bitmap-3 {
+    position: absolute;
+    width: 370px;
+    height: 272px;
+    top: 5108px;
+    left: 942px;
+  }
+  
+  .consulting .lorem-ipsum-decided {
+    position: absolute;
+    width: 370px;
+    top: 5417px;
+    left: 942px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .text-wrapper-3 {
+    left: 142px;
+    position: absolute;
+    top: 5504px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .text-wrapper-4 {
+    left: 542px;
+    position: absolute;
+    top: 5504px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .text-wrapper-5 {
+    left: 942px;
+    position: absolute;
+    top: 5504px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .unsplash-hpjskuuysu {
+    position: absolute;
+    width: 370px;
+    height: 273px;
+    top: 5107px;
+    left: 142px;
+    object-fit: cover;
+  }
+  
+  .consulting .unsplash-vhijuoiwlu {
+    position: absolute;
+    width: 370px;
+    height: 273px;
+    top: 5108px;
+    left: 942px;
+    object-fit: cover;
+  }
+  
+  .consulting .overlap-wrapper {
+    position: absolute;
+    width: 1454px;
+    height: 464px;
+    top: 6799px;
+    left: 1px;
+  }
+  
+  .consulting .overlap-3 {
+    position: relative;
+    width: 1442px;
+    height: 466px;
+    top: -1px;
+    left: -1px;
+    background-color: #1d4645;
+  }
+  
+  .consulting .menu {
+    position: absolute;
+    top: 90px;
+    left: 436px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #e8c5b0;
+    font-size: 18px;
+    letter-spacing: 3px;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .about-services-blog {
+    position: absolute;
+    top: 139px;
+    left: 436px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .service {
+    position: absolute;
+    top: 90px;
+    left: 736px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #e8c5b0;
+    font-size: 18px;
+    letter-spacing: 3px;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .planning-managment-s {
+    position: absolute;
+    top: 139px;
+    left: 736px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .social {
+    position: absolute;
+    width: 160px;
+    height: 48px;
+    top: 97px;
+    left: 1036px;
+  }
+  
+  .consulting .instagram-wrapper {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 0;
+    left: 112px;
+    background-color: #e8c5b0;
+    border-radius: 24px;
+  }
+  
+  .consulting .instagram {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 16px;
+    left: 16px;
+  }
+  
+  .consulting .twitter-wrapper {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 0;
+    left: 56px;
+    background-color: #e8c5b0;
+    border-radius: 24px;
+  }
+  
+  .consulting .twitter {
+    position: absolute;
+    width: 16px;
+    height: 13px;
+    top: 18px;
+    left: 16px;
+  }
+  
+  .consulting .facebook-wrapper {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 0;
+    left: 0;
+    background-color: #e8c5b0;
+    border-radius: 24px;
+  }
+  
+  .consulting .facebook {
+    position: absolute;
+    width: 9px;
+    height: 16px;
+    top: 16px;
+    left: 19px;
+  }
+  
+  .consulting .copyright-laa {
+    position: absolute;
+    top: 379px;
+    left: 136px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff80;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .text-wrapper-6 {
+    position: absolute;
+    top: 379px;
+    left: 1211px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .text-wrapper-7 {
+    position: absolute;
+    top: 379px;
+    left: 1048px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .group-8 {
+    position: absolute;
+    width: 130px;
+    height: 150px;
+    top: 22px;
+    left: 94px;
+    object-fit: cover;
+  }
+  
+  .consulting .rectangle-7 {
+    position: absolute;
+    width: 1170px;
+    height: 1px;
+    top: 337px;
+    left: 136px;
+    background-color: #245756;
+  }
+  
+  .consulting .unsplash-2 {
+    position: absolute;
+    width: 470px;
+    height: 424px;
+    top: 4338px;
+    left: 692px;
+  }
+  
+  .consulting .unsplash-3 {
+    position: absolute;
+    width: 262px;
+    height: 198px;
+    top: 4401px;
+    left: 703px;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #ffffff;
+    box-shadow: 50px 50px 100px #00000059;
+  }
+  
+  .consulting .group-9 {
+    position: absolute;
+    width: 38px;
+    height: 32px;
+    top: 4771px;
+    left: 1342px;
+  }
+  
+  .consulting .group-10 {
+    position: absolute;
+    width: 38px;
+    height: 32px;
+    top: 4771px;
+    left: 74px;
+  }
+  
+  .consulting .group-11 {
+    position: absolute;
+    width: 1139px;
+    height: 322px;
+    top: 6435px;
+    left: 119px;
+  }
+  
+  .consulting .oval-6 {
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    top: 0;
+    left: 1017px;
+    border-radius: 9.5px;
+    border: 3px solid;
+    border-color: #e8c5b0;
+  }
+  
+  .consulting .oval-7 {
+    position: absolute;
+    width: 19px;
+    height: 19px;
+    top: 83px;
+    left: 0;
+    border-radius: 9.5px;
+    border: 3px solid;
+    border-color: #e8c5b0;
+  }
+  
+  .consulting .oval-8 {
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    top: 296px;
+    left: 648px;
+    border-radius: 13px;
+    border: 3px solid;
+    border-color: #e8c5b0;
+  }
+  
+  .consulting .combined-shape-4 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 252px;
+    left: 184px;
+  }
+  
+  .consulting .group-12 {
+    position: absolute;
+    width: 94px;
+    height: 91px;
+    top: 175px;
+    left: 1044px;
+  }
+  
+  .consulting .unsplash-sytoxsfu {
+    position: absolute;
+    width: 370px;
+    height: 273px;
+    top: 5108px;
+    left: 542px;
+    object-fit: cover;
+  }
+  
+  .consulting .rectangle-8 {
+    position: absolute;
+    width: 1442px;
+    height: 690px;
+    top: 0;
+    left: 0;
+    background-color: #1d4645;
+    border: 1px solid;
+    border-color: #ffffff;
+  }
+  
+  .consulting .consultant-service {
+    position: absolute;
+    top: 119px;
+    left: 148px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 66px;
+    letter-spacing: 0;
+    line-height: 64px;
+    white-space: nowrap;
+  }
+  
+  .consulting .world-s-leading-orga {
+    position: absolute;
+    width: 519px;
+    top: 1448px;
+    left: 142px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 66px;
+    letter-spacing: 0;
+    line-height: 64px;
+  }
+  
+  .consulting .bitmap-4 {
+    position: absolute;
+    width: 770px;
+    height: 416px;
+    top: 1657px;
+    left: 142px;
+  }
+  
+  .consulting .introductory-course {
+    position: absolute;
+    top: 1704px;
+    left: 179px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 48px;
+    white-space: nowrap;
+  }
+  
+  .consulting .deep-dark-blue-spect-2 {
+    width: 401px;
+    top: 1775px;
+    left: 179px;
+    font-family: "Rubik-Regular", Helvetica;
+    color: #d2d2d2;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 40px;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .consulting .rectangle-9 {
+    position: absolute;
+    width: 370px;
+    height: 416px;
+    top: 1657px;
+    left: 942px;
+    background-color: #fff2e6;
+    border-radius: 4px;
+    box-shadow: 0px 24px 48px #0000000a;
+  }
+  
+  .consulting .bitmap-5 {
+    position: absolute;
+    width: 206px;
+    height: 206px;
+    top: 1705px;
+    left: 1058px;
+  }
+  
+  .consulting .business-of-giving-e {
+    position: absolute;
+    width: 322px;
+    top: 1961px;
+    left: 990px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 41px;
+  }
+  
+  .consulting .bitmap-6 {
+    position: absolute;
+    width: 370px;
+    height: 416px;
+    top: 2105px;
+    left: 142px;
+  }
+  
+  .consulting .people-working-in-a {
+    position: absolute;
+    width: 274px;
+    top: 2414px;
+    left: 190px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .rectangle-10 {
+    position: absolute;
+    width: 370px;
+    height: 416px;
+    top: 2105px;
+    left: 542px;
+    background-color: #fff2e6;
+    border-radius: 4px;
+    box-shadow: 0px 24px 48px #0000000a;
+  }
+  
+  .consulting .bitmap-7 {
+    position: absolute;
+    width: 206px;
+    height: 206px;
+    top: 2153px;
+    left: 658px;
+  }
+  
+  .consulting .bitmap-8 {
+    position: absolute;
+    width: 206px;
+    height: 206px;
+    top: 2153px;
+    left: 258px;
+  }
+  
+  .consulting .bitmap-9 {
+    position: absolute;
+    width: 206px;
+    height: 206px;
+    top: 2153px;
+    left: 1080px;
+  }
+  
+  .consulting .bitmap-10 {
+    position: absolute;
+    width: 370px;
+    height: 416px;
+    top: 2105px;
+    left: 942px;
+  }
+  
+  .consulting .concrete-and-specifi {
+    position: absolute;
+    width: 296px;
+    top: 2414px;
+    left: 990px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .rectangle-11 {
+    position: absolute;
+    width: 372px;
+    height: 434px;
+    top: 289px;
+    left: 147px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #f1d7c8;
+    box-shadow: 0px 24px 48px #0000000a;
+  }
+  
+  .consulting .rectangle-12 {
+    position: absolute;
+    width: 274px;
+    height: 2px;
+    top: 514px;
+    left: 196px;
+    background-color: #efefef;
+  }
+  
+  .consulting .planning {
+    top: 551px;
+    left: 196px;
+    position: absolute;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .sky-was-cloudless-an {
+    position: absolute;
+    width: 274px;
+    top: 603px;
+    left: 196px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #333333;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .rectangle-13 {
+    position: absolute;
+    width: 372px;
+    height: 434px;
+    top: 225px;
+    left: 547px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #f1d7c8;
+    box-shadow: 0px 24px 48px #0000000a;
+  }
+  
+  .consulting .rectangle-14 {
+    position: absolute;
+    width: 274px;
+    height: 2px;
+    top: 450px;
+    left: 596px;
+    background-color: #efefef;
+  }
+  
+  .consulting .managment {
+    top: 487px;
+    left: 596px;
+    position: absolute;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .deep-dark-blue-spect-3 {
+    width: 274px;
+    top: 539px;
+    left: 596px;
+    font-family: "Commissioner-Regular", Helvetica;
+    color: #333333;
+    font-size: 16px;
+    line-height: 32px;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .consulting .rectangle-15 {
+    position: absolute;
+    width: 372px;
+    height: 434px;
+    top: 161px;
+    left: 947px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #f1d7c8;
+    box-shadow: 0px 24px 48px #0000000a;
+  }
+  
+  .consulting .rectangle-16 {
+    position: absolute;
+    width: 274px;
+    height: 2px;
+    top: 386px;
+    left: 996px;
+    background-color: #efefef;
+  }
+  
+  .consulting .strategy {
+    top: 423px;
+    left: 996px;
+    position: absolute;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .spectacle-before-us {
+    position: absolute;
+    width: 274px;
+    top: 475px;
+    left: 996px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #333333;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .rectangle-17 {
+    position: absolute;
+    width: 326px;
+    height: 187px;
+    top: 308px;
+    left: 168px;
+    object-fit: cover;
+  }
+  
+  .consulting .step {
+    position: absolute;
+    width: 336px;
+    height: 194px;
+    top: 308px;
+    left: 163px;
+  }
+  
+  .consulting .step-2 {
+    position: absolute;
+    width: 336px;
+    height: 194px;
+    top: 246px;
+    left: 565px;
+  }
+  
+  .consulting .step-3 {
+    position: absolute;
+    width: 340px;
+    height: 194px;
+    top: 184px;
+    left: 963px;
+  }
+  
+  .consulting .rectangle-18 {
+    position: absolute;
+    width: 372px;
+    height: 434px;
+    top: 849px;
+    left: 178px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #f1d7c7;
+    box-shadow: 0px 24px 48px #0000000a;
+  }
+  
+  .consulting .rectangle-19 {
+    position: absolute;
+    width: 274px;
+    height: 2px;
+    top: 1074px;
+    left: 227px;
+    background-color: #efefef;
+  }
+  
+  .consulting .planning-2 {
+    top: 1111px;
+    left: 227px;
+    position: absolute;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .sky-was-cloudless-an-2 {
+    width: 274px;
+    top: 1163px;
+    left: 227px;
+    color: #333333;
+    position: absolute;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .rectangle-20 {
+    position: absolute;
+    width: 372px;
+    height: 434px;
+    top: 783px;
+    left: 578px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #f1d7c8;
+    box-shadow: 0px 24px 48px #0000000a;
+  }
+  
+  .consulting .rectangle-21 {
+    position: absolute;
+    width: 274px;
+    height: 2px;
+    top: 1010px;
+    left: 627px;
+    background-color: #efefef;
+  }
+  
+  .consulting .managment-2 {
+    top: 1047px;
+    left: 627px;
+    position: absolute;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .deep-dark-blue-spect-4 {
+    width: 274px;
+    top: 1099px;
+    left: 627px;
+    font-family: "Commissioner-Regular", Helvetica;
+    color: #333333;
+    font-size: 16px;
+    line-height: 32px;
+    position: absolute;
+    font-weight: 400;
+    letter-spacing: 0;
+  }
+  
+  .consulting .rectangle-22 {
+    position: absolute;
+    width: 372px;
+    height: 434px;
+    top: 721px;
+    left: 978px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #f1d7c8;
+    box-shadow: 0px 24px 48px #0000000a;
+  }
+  
+  .consulting .rectangle-23 {
+    position: absolute;
+    width: 274px;
+    height: 2px;
+    top: 946px;
+    left: 1027px;
+    background-color: #efefef;
+  }
+  
+  .consulting .strategy-2 {
+    top: 983px;
+    left: 1027px;
+    position: absolute;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .spectacle-before-us-2 {
+    position: absolute;
+    width: 274px;
+    top: 1035px;
+    left: 1027px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #333333;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .step-4 {
+    position: absolute;
+    width: 336px;
+    height: 196px;
+    top: 797px;
+    left: 596px;
+  }
+  
+  .consulting .step-5 {
+    position: absolute;
+    width: 336px;
+    height: 196px;
+    top: 862px;
+    left: 196px;
+  }
+  
+  .consulting .step-6 {
+    position: absolute;
+    width: 336px;
+    height: 202px;
+    top: 733px;
+    left: 996px;
+  }
+  
+  .consulting .rectangle-24 {
+    position: absolute;
+    width: 311px;
+    height: 417px;
+    top: 1656px;
+    left: 601px;
+    object-fit: cover;
+  }
+  
+  .consulting .button-4 {
+    top: 1639px;
+    left: 218px;
+    color: #1d4645;
+    font-size: 14px;
+    position: absolute;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .consulting .people-working-in-a-2 {
+    position: absolute;
+    width: 274px;
+    top: 2414px;
+    left: 584px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .bitmap-11 {
+    position: absolute;
+    width: 206px;
+    height: 206px;
+    top: 2153px;
+    left: 1058px;
+  }
+  
+  .consulting .light-button {
+    position: absolute;
+    width: 170px;
+    height: 48px;
+    top: 1481px;
+    left: 1142px;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #1d4645;
+  }
+  
+  .consulting .button-5 {
+    top: 13px;
+    left: 37px;
+    color: #1d4645;
+    font-size: 14px;
+    position: absolute;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .consulting .button-wrapper {
+    position: absolute;
+    width: 170px;
+    height: 48px;
+    top: 2715px;
+    left: 1142px;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #1d4645;
+  }
+  
+  .consulting .improve-your-busines {
+    position: absolute;
+    width: 643px;
+    top: 2674px;
+    left: 136px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 66px;
+    letter-spacing: 0;
+    line-height: 64px;
+  }
+  
+  .consulting .rectangle-25 {
+    position: absolute;
+    width: 470px;
+    height: 352px;
+    top: 2891px;
+    left: 136px;
+    background-color: #fff2e6;
+    border-radius: 4px;
+  }
+  
+  .consulting .oval-9 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 2923px;
+    left: 168px;
+    background-color: #ffffff;
+    border-radius: 50px;
+  }
+  
+  .consulting .oval-10 {
+    position: absolute;
+    width: 76px;
+    height: 76px;
+    top: 2935px;
+    left: 180px;
+    object-fit: cover;
+  }
+  
+  .consulting .organization {
+    position: absolute;
+    top: 3040px;
+    left: 168px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .sky-was-cloudless-an-3 {
+    width: 379px;
+    top: 3092px;
+    left: 168px;
+    color: #33333380;
+    position: absolute;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .rectangle-26 {
+    position: absolute;
+    width: 370px;
+    height: 352px;
+    top: 2987px;
+    left: 636px;
+    background-color: #fff2e6;
+    border-radius: 4px;
+  }
+  
+  .consulting .oval-11 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 3019px;
+    left: 668px;
+    background-color: #ffffff;
+    border-radius: 50px;
+  }
+  
+  .consulting .oval-12 {
+    position: absolute;
+    width: 78px;
+    height: 78px;
+    top: 3030px;
+    left: 679px;
+    object-fit: cover;
+  }
+  
+  .consulting .motivation {
+    position: absolute;
+    top: 3136px;
+    left: 668px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .even-the-all-powerfu-2 {
+    position: absolute;
+    width: 291px;
+    top: 3188px;
+    left: 668px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #33333380;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .rectangle-27 {
+    position: absolute;
+    width: 270px;
+    height: 352px;
+    top: 3275px;
+    left: 336px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    box-shadow: 0px 24px 48px #0000000a;
+  }
+  
+  .consulting .oval-13 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 3307px;
+    left: 368px;
+    background-color: #fff2e6;
+    border-radius: 50px;
+  }
+  
+  .consulting .oval-14 {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    top: 3319px;
+    left: 381px;
+    object-fit: cover;
+  }
+  
+  .consulting .productivity {
+    position: absolute;
+    top: 3424px;
+    left: 368px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .unorthographic-life {
+    position: absolute;
+    width: 204px;
+    top: 3476px;
+    left: 368px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #33333380;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .rectangle-28 {
+    position: absolute;
+    width: 270px;
+    height: 320px;
+    top: 3371px;
+    left: 636px;
+    background-color: #fff2e6;
+    border-radius: 4px;
+  }
+  
+  .consulting .oval-15 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 3403px;
+    left: 668px;
+    background-color: #ffffff;
+    border-radius: 50px;
+  }
+  
+  .consulting .oval-16 {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    top: 3415px;
+    left: 680px;
+    object-fit: cover;
+  }
+  
+  .consulting .creativity {
+    position: absolute;
+    top: 3520px;
+    left: 668px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .however-a-small-line {
+    position: absolute;
+    width: 204px;
+    top: 3572px;
+    left: 668px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #33333380;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .rectangle-29 {
+    position: absolute;
+    width: 370px;
+    height: 352px;
+    top: 3371px;
+    left: 936px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    box-shadow: 0px 24px 48px #0000000a;
+  }
+  
+  .consulting .oval-17 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 3403px;
+    left: 968px;
+    background-color: #fff2e6;
+    border-radius: 50px;
+  }
+  
+  .consulting .oval-18 {
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    top: 3417px;
+    left: 982px;
+    object-fit: cover;
+  }
+  
+  .consulting .excellence {
+    position: absolute;
+    top: 3520px;
+    left: 968px;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .text-by-the-name-of {
+    position: absolute;
+    width: 291px;
+    top: 3572px;
+    left: 968px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #33333380;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
+  
+  .consulting .combined-shape-5 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 559px;
+    left: 1262px;
+  }
+  
+  .consulting .about-portfolio-serv {
+    position: absolute;
+    top: 24px;
+    left: 531px;
+    font-family: "Commissioner-Regular", Helvetica;
+    font-weight: 400;
+    color: #333333;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .consulting .dark-button {
+    position: absolute;
+    width: 154px;
+    height: 48px;
+    top: 17px;
+    left: 1258px;
+    border-radius: 4px;
+    border: 1px solid;
+    border-color: #333333;
+  }
+  
+  .consulting .button-6 {
+    top: 13px;
+    left: 17px;
+    color: #333333;
+    font-size: 14px;
+    position: absolute;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .consulting .overlap-4 {
+    position: absolute;
+    width: 627px;
+    height: 343px;
+    top: 269px;
+    left: 455px;
+  }
+  
+  .consulting .we-help-business-gro {
+    position: absolute;
+    width: 627px;
+    top: 0;
+    left: 0;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    color: #1d4645;
+    font-size: 72px;
+    letter-spacing: 0;
+    line-height: 80px;
+  }
+  
+  .consulting .dark-button-2 {
+    position: absolute;
+    width: 361px;
+    height: 82px;
+    top: 261px;
+    left: 76px;
+  }
+  
+  .consulting .button-7 {
+    top: 31px;
+    left: 10px;
+    color: #333333;
+    font-size: 36px;
+    position: absolute;
+    font-family: "Commissioner-Bold", Helvetica;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    all: unset;
+    box-sizing: border-box;
+  }
+  
+  .consulting .line {
+    position: absolute;
+    width: 1px;
+    height: 62px;
+    top: 555px;
+    left: 205px;
+    object-fit: cover;
+  }
+  
