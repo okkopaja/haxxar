@@ -59,7 +59,7 @@ function Footer() {
           <ul className="ft-legal-list">
             <li><a href="#">Terms &amp; Conditions</a></li>
             <li><a href="#">Privacy Policy</a></li>
-            <li>&copy; 2019 Copyright Nowrap Inc.</li>
+            <li>&copy; 2023 Copyright Team Haxxarw</li>
           </ul>
         </section>
       </footer>
