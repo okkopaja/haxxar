@@ -21,11 +21,18 @@ export function NavbarDefault() {
         color="blue-gray"
         className="p-1 font-normal"
       >Docs</Link>
+
       <Link href={''}
         as="li"
         color="blue-gray"
         className="p-1 font-normal"
       >Blocks</Link>
+      
+      <Link href={''}
+        as="li"
+        color="blue-gray"
+        className="p-1 font-normal"
+      >Curriculum</Link>
     </ul>
   );
  
