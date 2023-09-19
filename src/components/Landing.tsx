@@ -4,7 +4,7 @@ function Landing() {
   return (
     <>
     <div>
-        <div className='h-screen bg-gradient-to-bl from-pink-600 via-red-450 to-yellow-500'>
+        <div className='h-screen bg-gradient-to-br from-green-500 via-orange-400 to-purple-700'>
             <div className='h-20'></div>
          <div className=' p-10 flex flex-col space-y-20'>
           <div className='flex flex-col font-bold text-5xl'>
@@ -28,7 +28,7 @@ function Landing() {
             </p>
            </div>
            <div>
-            <button className='h-14 w-40 rounded-lg bg-gradient-to-tr from-rose-500 to-rose-800 font-bold font-cabin text-2xl hover:bg-gradient-to-tr  hover:to-rose-600 hover:scale-105 '>
+            <button className='h-14 w-40 rounded-lg bg-gradient-to-l from-rose-600 to-black font-bold font-nanum text-xl text-white hover:bg-gradient-to-tr  hover:to-rose-600 hover:scale-105 '>
                 Get Started
             </button>
            </div>
