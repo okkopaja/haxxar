@@ -28,7 +28,7 @@ function Landing() {
             </p>
            </div>
            <div>
-            <button className='h-14 w-40 rounded-lg bg-gradient-to-l from-rose-600 to-black font-bold font-nanum text-xl text-white hover:bg-gradient-to-tr  hover:to-rose-600 hover:scale-105 '>
+            <button className='h-14 w-40 rounded-lg bg-gradient-to-l from-rose-600 to-black font-bold font-nanum text-xl text-white hover:bg-gradient-to-tr  hover:to-rose-500 hover:scale-105 '>
                 Get Started
             </button>
            </div>
