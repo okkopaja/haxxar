@@ -15,15 +15,24 @@
     font-weight: 900px;
 }
 .cur{
-    color: #000; /* Fallback for older browsers */
-    color: rgba(0, 0, 0, 0.5);
+    position: relative;
+    color:  rgb(213, 161, 161);
+    /* font-size: 70px; */
+    font-family: Arial Black, Arial Bold, Gadget, sans-serif;
+
+  text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
 }
 .approach{
-    color: #FF0321
+    position: relative;
+    background: linear-gradient(
+        to right, #e90c9f, #94094a,
+         #7007a0, #2a09e4);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 .main{
     
-    background-color: rgb(213, 161, 161);
+    background-color: rgb(228, 195, 205);
     height: 100vh;
 }
 .para{
@@ -35,10 +44,14 @@
     margin-top: 30px;
     margin-left: 70px;
     border-radius: 20px;
-    background-color: black;
+    background-color:  rgb(22, 20, 20);
     color: white;
     cursor: pointer;
     padding: 18px 30px;
 
 }
-
+.btn:hover{
+    background-color:rgb(25, 26, 25);
+    color:rgb(200, 231, 231);
+   
+}
