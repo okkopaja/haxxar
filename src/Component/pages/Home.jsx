@@ -18,7 +18,7 @@ export const Home =()=>{
             </p>
             </div>
             <div>
-                <button className="btn">G E T    S T A R T E D</button>
+                <button className="btn">GET  STARTED</button>
             </div>
             </div>
         
