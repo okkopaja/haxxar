@@ -80,13 +80,13 @@ const Dashboard = () => {
         <div className="w-[99px] h-6 left-[28px] top-[414px] absolute">
             <div className="left-[38px] top-[1px] absolute opacity-50 text-slate-950 text-base font-semibold font-['Nunito']">Settings</div>
             <div className="w-6 h-6 left-0 top-0 absolute opacity-40 flex-col justify-start items-start inline-flex">
-                <img className="w-[19px] h-5" src="https://via.placeholder.com/19x20" />
+                <img className="w-[19px] h-5" src="https://www.iconpacks.net/icons/2/free-settings-icon-3110-thumb.png" />
             </div>
         </div>
         <div className="w-[123px] h-6 left-[26px] top-[359px] absolute">
             <div className="left-[38px] top-[1px] absolute opacity-50 text-slate-950 text-base font-semibold font-['Nunito']">Notification</div>
             <div className="w-6 h-6 left-0 top-0 absolute opacity-40 flex-col justify-start items-start inline-flex">
-                <Image src="/notification-icon.png" width={17} height={5}  alt = "notification-icon"/> 
+                <img src="https://cdn-icons-png.flaticon.com/512/565/565422.png" className="w-6 h-6 left-0 top-0 absolute"  alt = "notification-icon"/> 
             </div>
         </div>
         <div className="w-[116px] h-6 left-[28px] top-[305px] absolute">
@@ -100,7 +100,7 @@ const Dashboard = () => {
         <div className="w-[146px] h-12 left-0 top-[185px] absolute">
             <div className="left-[66px] top-[13px] absolute text-indigo-500 text-base font-semibold font-['Nunito']">Dashboard</div>
             <div className="w-6 h-6 left-[28px] top-[12px] absolute">
-                <img className="w-5 h-5 left-[2px] top-[2px] absolute" src="./mini-dashboard-icon" />
+                <img className="w-5 h-5 left-[2px] top-[2px] absolute" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa_yU4uwFeVu1RXhexJ5K2bdXeeGkHug3JOw&usqp=CAU" />
             </div>
             <div className="w-[53px] h-12 left-0 top-0 absolute opacity-20 bg-gradient-to-r from-indigo-300 to-indigo-300 rounded-tr-[5px] rounded-br-[5px]" />
         </div>
