@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@300;400&family=Montserrat:wght@300;400;500;600;700&family=Poppins:ital,wght@0,200;0,300;1,400&family=Roboto:wght@100;300&family=Varela+Round&display=swap');
 
 body {
-    font-size: 20px; /* Adjust to your preferred base font size */
+    font-size: 20px;
   }
   
 
@@ -14,15 +14,41 @@ body {
 
 .h1s{
     font-size: 3.9rem;
-    padding-top: 5.2rem ;
+    padding-top: 5rem ;
     margin-left: 5.2rem;
     font-weight: 900px;
+    color: #000;
+    font-family: Poppins;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 112.5%; /* 90px */
+    letter-spacing: -4px;
+    text-transform: uppercase;
 }
 .cur{
     position: relative;
-    color:  rgb(213, 161, 161);
-    font-family: Arial Black, Arial Bold, Gadget, sans-serif;
-    text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
+    
+    color: rgba(0, 0, 0, 0.00);
+    font-family: Poppins;
+    font-weight: 600;
+    
+    
+    text-transform: uppercase;
+   
+    min-block-size:100vh;
+    
+    
+    
+    -webkit-background-clip: text;
+    color: #000119;
+    font-size: 15vmin;
+    
+    letter-spacing: 10px; 
+    color: transparent;
+    -webkit-text-stroke: 0.5px black;
+    /* text-shadow: 0 0 10px black; */
+    
 }
 .approach{
     position: relative;
@@ -31,37 +57,37 @@ body {
          #7007a0, #2a09e4);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
+    letter-spacing: 12px; 
+    font-size: 18vmin;
+    padding-left: 20px;
 }
-.main{
-    
-    background-color: rgb(228, 195, 205);
+.main {
+    background-color: rgba(228, 195, 205, 0.4);
     height: 100vh;
-}
+  }
+  
 .para{
-    font-size: 25;
+    font-size: 1.5rem;
     margin-top: 40px; 
     margin-left: 5.3rem;
 
 }
 .btn{
     font-size : 1.1rem;
+    letter-spacing: 5px; 
     margin-top: 30px;
     margin-left: 5.3rem;
     border-radius: 20px;
-    background-color:  rgb(25, 26, 25);
-    color: rgb(204, 223, 223);
+    padding: 20px 36px;
+    background-color: black;
+    color: #ffffff;
+    border: none;
     cursor: pointer;
-    padding: 18px 45px;
-    box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    transition: transform 0.2s, box-shadow 0.2s;
 
 }
 .btn:hover{
-    /* background-color:rgb(22, 20, 20);
-    color: white;
-    border: #191a17;
-    padding: 20px 50px; */
-    /* background: #ff96ad;
-    box-shadow: 0 0 5px #ff96ad, 0 0 25px #ff96ad, 0 0 50px #ff96ad, 0 0 200px #ff96ad; */
-    box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan, 0 0 200px cyan;
+    transform: scale(1.03);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 
 }
