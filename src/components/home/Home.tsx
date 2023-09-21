@@ -12,7 +12,7 @@ export const Home =()=>{
            
             <div className="para">
             <p>ASSESS YOURSELF TODAY ON OUR CUTTING  </p>
-            <p> EDGE ARTIFICIAL INTELIGENCE BASED</p>
+            <p> EDGE ARTIFICIAL INTELLIGENCE BASED</p>
             <p>
                ADAPTIVE TESTS 
             </p>
