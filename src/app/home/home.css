@@ -13,9 +13,9 @@ body {
 }
 
 .h1s{
-    font-size: 32px;
-    padding-top: 70px ;
-    margin-left: 70px;
+    font-size: 3.9rem;
+    padding-top: 5.2rem ;
+    margin-left: 5.2rem;
     font-weight: 900px;
 }
 .cur{
@@ -40,13 +40,13 @@ body {
 .para{
     font-size: 25;
     margin-top: 40px; 
-    margin-left: 70px;
+    margin-left: 5.3rem;
 
 }
 .btn{
     font-size : 1.1rem;
     margin-top: 30px;
-    margin-left: 70px;
+    margin-left: 5.3rem;
     border-radius: 20px;
     background-color:  rgb(25, 26, 25);
     color: rgb(204, 223, 223);

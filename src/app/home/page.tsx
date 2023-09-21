@@ -1,5 +1,6 @@
 import React from "react";
-import "./Home.css"
+import "./home.css"
+import Link from "next/link";
 export const Home =()=>{
     return <div className="main">
        
@@ -17,9 +18,9 @@ export const Home =()=>{
                ADAPTIVE TESTS 
             </p>
             </div>
-            <div>
-                <button className="btn">GET  STARTED</button>
-            </div>
+            
+                <Link href= {'/pages/dashboard'}><button className="btn">GET  STARTED</button></Link>
+            
             </div>
         
        

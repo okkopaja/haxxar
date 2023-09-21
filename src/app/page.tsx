@@ -1,10 +1,10 @@
 import React from 'react'
-import {NavbarDefault} from '@/components/navbar/Navbar'
-import { Home } from '@/components/home/Home'
+import { NavbarDefault } from './navbar/page'
+import { Home } from './home/page'
 function page() {
   return (
     <>
-    <NavbarDefault />
+    
     <Home/>
     
     </>
